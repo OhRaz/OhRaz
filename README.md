@@ -1,16 +1,18 @@
 ### Hi there 👋
+My name is Kai Taylor. I am a back-end developer that currently lives in Biritsh Columbia, Canada. In my free time, I love programming with languages such as JavaScript, and also playing games with friends.
 
-<!--
-**OhRaz/OhRaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Current employment:
+- Senior Web Development at [Ventos Trucking](https://ventostrucking.com)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- More Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- [Website](https://razisnub.live)
+- [Twitter](https://twitter/com/OhRaz_TMP)
+
+🌐 Country & Timezone:
+Canada [UTC−8]
+
+⚡ Fun fact:
+I have a Girlfriend named Elise 💕
