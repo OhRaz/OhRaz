@@ -2,7 +2,7 @@
 My name is Kai Taylor. I am a back-end developer that currently lives in Biritsh Columbia, Canada. In my free time, I love programming with languages such as JavaScript, and also playing games with friends.
 
 💼 Current employment:
-- Senior Web Development at [Ventos Trucking](https://ventostrucking.com)
+- Leaning Web Development
 
 🌱 I’m currently learning:
 - More Web Development
